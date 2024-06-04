@@ -104,13 +104,13 @@
    * 风/四喜
       |df| |nf| |xf| |bf|
    * 箭/三元
-      |zhong| |fa| |bai|
+      |zhong| |fa| |bai| |mei|
 * 花牌
 
    * 君子
       |chun| |xia| |qiu| |dong|
    * 四季
-      |mei| |lan| |zhu| |ju|
+      |mei| |lan| |zhu| |ju| |bai|
 
 以上麻将牌，每种各四张。
 
