@@ -69,21 +69,21 @@
     :width: 10 %
 .. |bai| image:: _static/images/MJd3.png
     :width: 10 %
-.. |chun| image:: _static/images/Mjh1.png
+.. |chun| image:: _static/images/MJh1.png
     :width: 10 %
-.. |xia| image:: _static/images/Mjh2.png
+.. |xia| image:: _static/images/MJh2.png
     :width: 10 %
-.. |qiu| image:: _static/images/Mjh3.png
+.. |qiu| image:: _static/images/MJh3.png
     :width: 10 %
-.. |dong| image:: _static/images/Mjh4.png
+.. |dong| image:: _static/images/MJh4.png
     :width: 10 %
-.. |mei| image:: _static/images/Mjh5.png
+.. |mei| image:: _static/images/MJh5.png
     :width: 10 %
-.. |lan| image:: _static/images/Mjh6.png
+.. |lan| image:: _static/images/MJh6.png
     :width: 10 %
-.. |ju| image:: _static/images/Mjh7.png
+.. |ju| image:: _static/images/MJh7.png
     :width: 10 %
-.. |zhu| image:: _static/images/Mjh8.png
+.. |zhu| image:: _static/images/MJh8.png
     :width: 10 %
 
 

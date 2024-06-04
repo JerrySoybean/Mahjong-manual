@@ -1,89 +1,89 @@
 标准流程
 ========
 
-.. |1b| image:: _static/_images/MJt1.png
+.. |1b| image:: _static/images/MJt1.png
     :width: 10 %
-.. |2b| image:: _static/_images/MJt2.png
+.. |2b| image:: _static/images/MJt2.png
     :width: 10 %
-.. |3b| image:: _static/_images/MJt3.png
+.. |3b| image:: _static/images/MJt3.png
     :width: 10 %
-.. |4b| image:: _static/_images/MJt4.png
+.. |4b| image:: _static/images/MJt4.png
     :width: 10 %
-.. |5b| image:: _static/_images/MJt5.png
+.. |5b| image:: _static/images/MJt5.png
     :width: 10 %
-.. |6b| image:: _static/_images/MJt6.png
+.. |6b| image:: _static/images/MJt6.png
     :width: 10 %
-.. |7b| image:: _static/_images/MJt7.png
+.. |7b| image:: _static/images/MJt7.png
     :width: 10 %
-.. |8b| image:: _static/_images/MJt8.png
+.. |8b| image:: _static/images/MJt8.png
     :width: 10 %
-.. |9b| image:: _static/_images/MJt9.png
+.. |9b| image:: _static/images/MJt9.png
     :width: 10 %
-.. |1t| image:: _static/_images/MJs1.png
+.. |1t| image:: _static/images/MJs1.png
     :width: 10 %
-.. |2t| image:: _static/_images/MJs2.png
+.. |2t| image:: _static/images/MJs2.png
     :width: 10 %
-.. |3t| image:: _static/_images/MJs3.png
+.. |3t| image:: _static/images/MJs3.png
     :width: 10 %
-.. |4t| image:: _static/_images/MJs4.png
+.. |4t| image:: _static/images/MJs4.png
     :width: 10 %
-.. |5t| image:: _static/_images/MJs5.png
+.. |5t| image:: _static/images/MJs5.png
     :width: 10 %
-.. |6t| image:: _static/_images/MJs6.png
+.. |6t| image:: _static/images/MJs6.png
     :width: 10 %
-.. |7t| image:: _static/_images/MJs7.png
+.. |7t| image:: _static/images/MJs7.png
     :width: 10 %
-.. |8t| image:: _static/_images/MJs8.png
+.. |8t| image:: _static/images/MJs8.png
     :width: 10 %
-.. |9t| image:: _static/_images/MJs9.png
+.. |9t| image:: _static/images/MJs9.png
     :width: 10 %
-.. |1w| image:: _static/_images/MJw1.png
+.. |1w| image:: _static/images/MJw1.png
     :width: 10 %
-.. |2w| image:: _static/_images/MJw2.png
+.. |2w| image:: _static/images/MJw2.png
     :width: 10 %
-.. |3w| image:: _static/_images/MJw3.png
+.. |3w| image:: _static/images/MJw3.png
     :width: 10 %
-.. |4w| image:: _static/_images/MJw4.png
+.. |4w| image:: _static/images/MJw4.png
     :width: 10 %
-.. |5w| image:: _static/_images/MJw5.png
+.. |5w| image:: _static/images/MJw5.png
     :width: 10 %
-.. |6w| image:: _static/_images/MJw6.png
+.. |6w| image:: _static/images/MJw6.png
     :width: 10 %
-.. |7w| image:: _static/_images/MJw7.png
+.. |7w| image:: _static/images/MJw7.png
     :width: 10 %
-.. |8w| image:: _static/_images/MJw8.png
+.. |8w| image:: _static/images/MJw8.png
     :width: 10 %
-.. |9w| image:: _static/_images/MJw9.png
+.. |9w| image:: _static/images/MJw9.png
     :width: 10 %
-.. |df| image:: _static/_images/MJf1.png
+.. |df| image:: _static/images/MJf1.png
     :width: 10 %
-.. |nf| image:: _static/_images/MJf2.png
+.. |nf| image:: _static/images/MJf2.png
     :width: 10 %
-.. |xf| image:: _static/_images/MJf3.png
+.. |xf| image:: _static/images/MJf3.png
     :width: 10 %
-.. |bf| image:: _static/_images/MJf4.png
+.. |bf| image:: _static/images/MJf4.png
     :width: 10 %
-.. |zhong| image:: _static/_images/MJd1.png
+.. |zhong| image:: _static/images/MJd1.png
     :width: 10 %
-.. |fa| image:: _static/_images/MJd2.png
+.. |fa| image:: _static/images/MJd2.png
     :width: 10 %
-.. |bai| image:: _static/_images/MJd3.png
+.. |bai| image:: _static/images/MJd3.png
     :width: 10 %
-.. |chun| image:: _static/_images/Mjh1.png
+.. |chun| image:: _static/images/MJh1.png
     :width: 10 %
-.. |xia| image:: _static/_images/Mjh2.png
+.. |xia| image:: _static/images/MJh2.png
     :width: 10 %
-.. |qiu| image:: _static/_images/Mjh3.png
+.. |qiu| image:: _static/images/MJh3.png
     :width: 10 %
-.. |dong| image:: _static/_images/Mjh4.png
+.. |dong| image:: _static/images/MJh4.png
     :width: 10 %
-.. |mei| image:: _static/_images/Mjh5.png
+.. |mei| image:: _static/images/MJh5.png
     :width: 10 %
-.. |lan| image:: _static/_images/Mjh6.png
+.. |lan| image:: _static/images/MJh6.png
     :width: 10 %
-.. |ju| image:: _static/_images/Mjh7.png
+.. |ju| image:: _static/images/MJh7.png
     :width: 10 %
-.. |zhu| image:: _static/_images/Mjh8.png
+.. |zhu| image:: _static/images/MJh8.png
     :width: 10 %
 
 
@@ -118,7 +118,7 @@
 --------
 
 .. _Mahjong_table:
-.. figure:: _static/_images/Mahjong_table.png
+.. figure:: _static/images/Mahjong_table.png
     
    麻将桌
 
@@ -148,7 +148,7 @@
 * 由于之后开始玩牌时，大家都是抓一张打一张。所以最开始是庄家抓一张打一张。因此，庄家会在抓第 13 张牌的同时，把游戏开始时抓的第一张牌（第 14 张）一起抓来，称为 :ref:`jump_draw` 。这样一来，游戏开始后，庄家不用抓牌，直接打出一张牌即可。
 
 .. _jump_draw:
-.. figure:: _static/_images/jump_draw.png
+.. figure:: _static/images/jump_draw.png
    :scale: 50 %
 
    跳牌
@@ -176,31 +176,31 @@
 ^^^^^^^^^^^^^^^^
 将牌型构造成 4 个面子 + 1 对将，即 4 * (AAA 或 AAAA 或 BCD) + EE，如
 
-.. image:: _static/_images/MJs1.png
+.. image:: _static/images/MJs1.png
     :width: 6 %
-.. image:: _static/_images/MJs2.png
+.. image:: _static/images/MJs2.png
     :width: 6 %
-.. image:: _static/_images/MJs3.png
+.. image:: _static/images/MJs3.png
     :width: 6 %
-.. image:: _static/_images/MJt2.png
+.. image:: _static/images/MJt2.png
     :width: 6 %
-.. image:: _static/_images/MJt2.png
+.. image:: _static/images/MJt2.png
     :width: 6 %
-.. image:: _static/_images/MJt2.png
+.. image:: _static/images/MJt2.png
     :width: 6 %
-.. image:: _static/_images/MJw5.png
+.. image:: _static/images/MJw5.png
     :width: 6 %
-.. image:: _static/_images/MJw6.png
+.. image:: _static/images/MJw6.png
     :width: 6 %
-.. image:: _static/_images/MJw7.png
+.. image:: _static/images/MJw7.png
     :width: 6 %
-.. image:: _static/_images/MJf1.png
+.. image:: _static/images/MJf1.png
     :width: 6 %
-.. image:: _static/_images/MJf1.png
+.. image:: _static/images/MJf1.png
     :width: 6 %
-.. image:: _static/_images/MJf1.png
+.. image:: _static/images/MJf1.png
     :width: 6 %
-.. image:: _static/_images/MJw9.png
+.. image:: _static/images/MJw9.png
     :width: 6 %
-.. image:: _static/_images/MJw9.png
+.. image:: _static/images/MJw9.png
     :width: 6 %
