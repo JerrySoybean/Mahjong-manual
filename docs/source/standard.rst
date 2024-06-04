@@ -81,9 +81,9 @@
     :width: 10 %
 .. |lan| image:: _static/images/Mjh6.png
     :width: 10 %
-.. |zhu| image:: _static/images/Mjh7.png
+.. |ju| image:: _static/images/Mjh7.png
     :width: 10 %
-.. |ju| image:: _static/images/Mjh8.png
+.. |zhu| image:: _static/images/Mjh8.svg
     :width: 10 %
 
 
@@ -104,13 +104,13 @@
    * 风/四喜
       |df| |nf| |xf| |bf|
    * 箭/三元
-      |zhong| |fa| |bai| |mei|
+      |zhong| |fa| |bai|
 * 花牌
 
    * 君子
       |chun| |xia| |qiu| |dong|
    * 四季
-      |mei| |lan| |zhu| |ju| |bai|
+      |mei| |lan| |ju| |zhu|
 
 以上麻将牌，每种各四张。
 
