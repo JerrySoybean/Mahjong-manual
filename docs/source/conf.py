@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '麻将-wiki'
+project = '麻将手册'
 copyright = '2024, 李宬睿'
 author = '李宬睿'
 
@@ -56,6 +56,9 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+html_theme_options = {
+    'font_family': 'sans-serif',
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

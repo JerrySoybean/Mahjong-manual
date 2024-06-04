@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7269" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="570" width="610" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 610.00001 570.00001">
+ <metadata id="metadata7274">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -482.36)">
+  <g stroke-linejoin="round" fill-rule="evenodd" stroke="#000" stroke-width="4">
+   <path id="path7847" d="m272.8 864.86v30l129.9 75v-30z" fill="#080"/>
+   <path id="path7849" d="m402.7 969.86 194.86-112.5v-30l-194.86 112.5z" fill="#080"/>
+   <path id="path7851" d="m272.8 894.86v75l129.9 75v-75z" fill="#fff"/>
+   <path id="path7853" d="m402.7 1044.9 194.86-112.5v-75l-194.86 112.5z" fill="#fff"/>
+   <path id="path7857" d="m142.89 789.86v30l129.9 75v-30z" fill="#080"/>
+   <path id="path7861" d="m142.89 819.86v75l129.9 75v-75z" fill="#fff"/>
+   <path id="path7867" d="m12.99 714.86v30l129.9 75v-30z" fill="#080"/>
+   <path id="path7869" d="m12.99 744.86v75l129.9 75v-75z" fill="#fff"/>
+  </g>
+  <g stroke-linejoin="round" fill-rule="evenodd" stroke="#000" stroke-width="4" fill="#080">
+   <path id="path7871" d="m272.8 759.86 129.9 75 194.86-112.5-129.9-75z"/>
+   <path id="path7873" d="m272.8 759.86v30l129.9 75v-30z"/>
+   <path id="path7875" d="m402.7 864.86 194.86-112.5v-30l-194.86 112.5z"/>
+  </g>
+  <g stroke-linejoin="round" fill-rule="evenodd" stroke="#000" stroke-width="4">
+   <path id="path7877" d="m272.8 789.86v75l129.9 75v-75z" fill="#fff"/>
+   <path id="path7879" d="m402.7 939.86 194.86-112.5v-75l-194.86 112.5z" fill="#fff"/>
+   <path id="path7881" d="m142.89 684.86 129.9 75 194.86-112.5-129.9-75z" fill="#080"/>
+   <path id="path7883" d="m142.89 684.86v30l129.9 75v-30z" fill="#080"/>
+   <path id="path7885" d="m142.89 714.86v75l129.9 75v-75z" fill="#fff"/>
+   <path id="path7887" d="m12.99 609.86 129.9 75 194.86-112.5-129.9-75z" fill="#080"/>
+   <path id="path7889" d="m12.99 609.86v30l129.9 75v-30z" fill="#080"/>
+   <path id="path7891" d="m12.99 639.86v75l129.9 75v-75z" fill="#fff"/>
+  </g>
+  <g font-size="12.5px" font-family="Bitstream Vera Sans" fill="#000089">
+   <text id="text7893" style="word-spacing:0px;letter-spacing:-1px" xml:space="preserve" transform="matrix(1 .57735 0 1 0 0)" line-height="89.99999762%" y="692.36218" x="338.24991"><tspan id="tspan7909" style="text-anchor:middle;text-align:center" font-size="60px" y="692.36218" x="337.74991" font-family="AR PL UKai TW" fill="#000089">東|E</tspan></text>
+   <text id="text7897" style="word-spacing:0px;letter-spacing:-1px" transform="matrix(1 .57735 0 1 0 0)" xml:space="preserve" line-height="89.99999762%" y="797.36218" x="338.24991"><tspan id="tspan7899" style="text-anchor:middle;text-align:center" font-size="60px" y="797.36218" x="337.74991" font-family="AR PL UKai TW" fill="#000089">南|S</tspan></text>
+   <text id="text7901" style="word-spacing:0px;letter-spacing:-1px" xml:space="preserve" transform="matrix(1 .57735 0 1 0 0)" line-height="89.99999762%" y="692.36218" x="208.34608"><tspan id="tspan7903" style="text-anchor:middle;text-align:center" font-size="60px" y="692.36218" x="207.84608" font-family="AR PL UKai TW" fill="#000089">西|W</tspan></text>
+   <text id="text7905" style="word-spacing:0px;letter-spacing:-1px" transform="matrix(1 .57735 0 1 0 0)" xml:space="preserve" line-height="89.99999762%" y="797.36218" x="208.34608"><tspan id="tspan7907" style="text-anchor:middle;text-align:center" font-size="60px" y="797.36218" x="207.84608" font-family="AR PL UKai TW" fill="#000089">北|N</tspan></text>
+   <text id="text7913" style="word-spacing:0px;letter-spacing:-1px" transform="matrix(1 .57735 0 1 0 0)" xml:space="preserve" line-height="89.99999762%" y="692.36218" x="78.442284"><tspan id="tspan7915" style="text-anchor:middle;text-align:center" font-size="60px" y="692.36218" x="77.942284" font-family="AR PL UKai TW" fill="#000089">東|E</tspan></text>
+  </g>
+  <g stroke-linejoin="round" fill-rule="evenodd" fill-opacity=".26667" stroke="#000" stroke-width="4" fill="#08f">
+   <path id="path7917" d="m272.8 789.86v75l129.9 75v-75z"/>
+   <path id="path7919" d="m12.99 639.86v75l129.9 75v-75z"/>
+   <path id="path7921" d="m402.7 939.86 194.86-112.5v-75l-194.86 112.5z"/>
+  </g>
+ </g>
+</svg>
