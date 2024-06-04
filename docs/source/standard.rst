@@ -83,7 +83,7 @@
     :width: 10 %
 .. |ju| image:: _static/images/Mjh7.png
     :width: 10 %
-.. |zhu| image:: _static/images/Mjh8.svg
+.. |zhu| image:: _static/images/Mjxx8.png
     :width: 10 %
 
 
