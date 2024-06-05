@@ -40,6 +40,8 @@
    stacking
    throwing
    win
+   kong
+   
 
 
 索引和表格
