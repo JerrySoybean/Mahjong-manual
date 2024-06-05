@@ -41,7 +41,7 @@
    throwing
    win
    kong
-   
+   variants
 
 
 索引和表格
