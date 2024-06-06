@@ -92,23 +92,23 @@
 
 * **七对**：七对将，AA BB CC DD EE FF GG。如
 
-  |df| |df| :math`\ ` |nf| |nf| :math`\ ` |xf| |xf| :math`\ ` |bf| |bf| :math`\ ` |1t| |1t| :math`\ ` |9t| |9t| :math`\ ` |4w| |4w|
+  |df| |df| :math:`\ ` |nf| |nf| :math:`\ ` |xf| |xf| :math:`\ ` |bf| |bf| :math:`\ ` |1t| |1t| :math:`\ ` |9t| |9t| :math:`\ ` |4w| |4w|
 
   * **龙七对（豪华七对）**：AA AA BB CC DD EE FF。注意，AA AA 不能开杠。如
     
-    |df| |df| :math`\ ` |df| |df| :math`\ ` |nf| |nf| :math`\ ` |xf| |xf| :math`\ ` |1t| |1t| :math`\ ` |9t| |9t| :math`\ ` |4w| |4w|
+    |df| |df| :math:`\ ` |df| |df| :math:`\ ` |nf| |nf| :math:`\ ` |xf| |xf| :math:`\ ` |1t| |1t| :math:`\ ` |9t| |9t| :math:`\ ` |4w| |4w|
 
     * **双龙七对（超豪华七对）**：AA AA BB BB CC DD EE。注意，AA AA 不能开杠，BB BB 不能开杠。如
 
-      |df| |df| :math`\ ` |df| |df| :math`\ ` |1t| |1t| :math`\ ` |1t| |1t| :math`\ ` |xf| |xf| :math`\ ` |9t| |9t| :math`\ ` |4w| |4w|
+      |df| |df| :math:`\ ` |df| |df| :math:`\ ` |1t| |1t| :math:`\ ` |1t| |1t| :math:`\ ` |xf| |xf| :math:`\ ` |9t| |9t| :math:`\ ` |4w| |4w|
 
       * **三龙七对（超超豪华七对）**：AA AA BB BB CC CC DD。注意，AA AA 不能开杠，BB BB 不能开杠，CC CC 不能开杠。如
 
-        |df| |df| :math`\ ` |df| |df| :math`\ ` |1t| |1t| :math`\ ` |1t| |1t| :math`\ ` |9t| |9t| :math`\ ` |9t| |9t| :math`\ ` |4w| |4w|
+        |df| |df| :math:`\ ` |df| |df| :math:`\ ` |1t| |1t| :math:`\ ` |1t| |1t| :math:`\ ` |9t| |9t| :math:`\ ` |9t| |9t| :math:`\ ` |4w| |4w|
 
 * **对对和/碰碰和/大对子**：四个面子全是刻子或杠 4 * (AAA 或 AAAA) + BB。如
 
-  |1t| |1t| |1t| :math`\ ` |4b| |4b| |4b| :math`\ ` |6t| |6t| |6t| :math`\ ` |bai| |bai| |bai| :math`\ ` |9b| |9b|
+  |1t| |1t| |1t| :math:`\ ` |4b| |4b| |4b| :math:`\ ` |6t| |6t| |6t| :math:`\ ` |bai| |bai| |bai| :math:`\ ` |9b| |9b|
 
 和牌动作
 --------
