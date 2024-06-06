@@ -91,18 +91,24 @@
 本部分会尽可能全面列出各种特殊和牌牌型。注意，这里只对他们进行定义，不说明分数。是否认可某一特殊和牌牌型及其对应分数应查阅 :doc:`/variants'。
 
 * **七对**：七对将，AA BB CC DD EE FF GG。如
-  |df| |df|   |nf| |nf|   |xf| |xf|   |bf| |bf|   |1t| |1t|   |9t| |9t|   |4w| |4w|
 
-   * **龙七对（豪华七对）**：AA AA BB CC DD EE FF。注意，AA AA 不能开杠。如
-     |df| |df|   |df| |df|   |nf| |nf|   |xf| |xf|   |1t| |1t|   |9t| |9t|   |4w| |4w|
+  |df| |df| \  |nf| |nf| \  |xf| |xf| \  |bf| |bf| \  |1t| |1t| \  |9t| |9t| \  |4w| |4w|
 
-      * **双龙七对（超豪华七对）**：AA AA BB BB CC DD EE。注意，AA AA 不能开杠，BB BB 不能开杠。如
-        |df| |df|   |df| |df|   |1t| |1t|   |1t| |1t|   |xf| |xf|   |9t| |9t|   |4w| |4w|
+  * **龙七对（豪华七对）**：AA AA BB CC DD EE FF。注意，AA AA 不能开杠。如
+    
+    |df| |df| \  |df| |df| \  |nf| |nf| \  |xf| |xf| \  |1t| |1t| \  |9t| |9t| \  |4w| |4w|
 
-         * **三龙七对（超超豪华七对）**：AA AA BB BB CC CC DD。注意，AA AA 不能开杠，BB BB 不能开杠，CC CC 不能开杠。如
-           |df| |df|   |df| |df|   |1t| |1t|   |1t| |1t|   |9t| |9t|   |9t| |9t|   |4w| |4w|
+    * **双龙七对（超豪华七对）**：AA AA BB BB CC DD EE。注意，AA AA 不能开杠，BB BB 不能开杠。如
+
+      |df| |df| \  |df| |df| \  |1t| |1t| \  |1t| |1t| \  |xf| |xf| \  |9t| |9t| \  |4w| |4w|
+
+      * **三龙七对（超超豪华七对）**：AA AA BB BB CC CC DD。注意，AA AA 不能开杠，BB BB 不能开杠，CC CC 不能开杠。如
+
+        |df| |df| \  |df| |df| \  |1t| |1t| \  |1t| |1t| \  |9t| |9t| \  |9t| |9t| \  |4w| |4w|
+
 * **对对和/碰碰和/大对子**：四个面子全是刻子或杠 4 * (AAA 或 AAAA) + BB。如
-  |1t| |1t| |1t|   |4b| |4b| |4b|   |6t| |6t| |6t|   |bai| |bai| |bai|   |9b| |9b|
+
+  |1t| |1t| |1t| \  |4b| |4b| |4b| \  |6t| |6t| |6t| \  |bai| |bai| |bai| \  |9b| |9b|
 
 和牌动作
 --------
