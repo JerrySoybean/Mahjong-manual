@@ -1,95 +1,95 @@
 和牌牌型和动作
 ==============
 
-.. |1b| image:: _static/images/MJt1.png
+.. |1b| image:: _static/images/suits/MJt1.png
     :width: 4 %
-.. |2b| image:: _static/images/MJt2.png
+.. |2b| image:: _static/images/suits/MJt2.png
     :width: 4 %
-.. |3b| image:: _static/images/MJt3.png
+.. |3b| image:: _static/images/suits/MJt3.png
     :width: 4 %
-.. |4b| image:: _static/images/MJt4.png
+.. |4b| image:: _static/images/suits/MJt4.png
     :width: 4 %
-.. |5b| image:: _static/images/MJt5.png
+.. |5b| image:: _static/images/suits/MJt5.png
     :width: 4 %
-.. |6b| image:: _static/images/MJt6.png
+.. |6b| image:: _static/images/suits/MJt6.png
     :width: 4 %
-.. |7b| image:: _static/images/MJt7.png
+.. |7b| image:: _static/images/suits/MJt7.png
     :width: 4 %
-.. |8b| image:: _static/images/MJt8.png
+.. |8b| image:: _static/images/suits/MJt8.png
     :width: 4 %
-.. |9b| image:: _static/images/MJt9.png
+.. |9b| image:: _static/images/suits/MJt9.png
     :width: 4 %
-.. |1t| image:: _static/images/MJs1.png
+.. |1t| image:: _static/images/suits/MJs1.png
     :width: 4 %
-.. |2t| image:: _static/images/MJs2.png
+.. |2t| image:: _static/images/suits/MJs2.png
     :width: 4 %
-.. |3t| image:: _static/images/MJs3.png
+.. |3t| image:: _static/images/suits/MJs3.png
     :width: 4 %
-.. |4t| image:: _static/images/MJs4.png
+.. |4t| image:: _static/images/suits/MJs4.png
     :width: 4 %
-.. |5t| image:: _static/images/MJs5.png
+.. |5t| image:: _static/images/suits/MJs5.png
     :width: 4 %
-.. |6t| image:: _static/images/MJs6.png
+.. |6t| image:: _static/images/suits/MJs6.png
     :width: 4 %
-.. |7t| image:: _static/images/MJs7.png
+.. |7t| image:: _static/images/suits/MJs7.png
     :width: 4 %
-.. |8t| image:: _static/images/MJs8.png
+.. |8t| image:: _static/images/suits/MJs8.png
     :width: 4 %
-.. |9t| image:: _static/images/MJs9.png
+.. |9t| image:: _static/images/suits/MJs9.png
     :width: 4 %
-.. |1w| image:: _static/images/MJw1.png
+.. |1w| image:: _static/images/suits/MJw1.png
     :width: 4 %
-.. |2w| image:: _static/images/MJw2.png
+.. |2w| image:: _static/images/suits/MJw2.png
     :width: 4 %
-.. |3w| image:: _static/images/MJw3.png
+.. |3w| image:: _static/images/suits/MJw3.png
     :width: 4 %
-.. |4w| image:: _static/images/MJw4.png
+.. |4w| image:: _static/images/suits/MJw4.png
     :width: 4 %
-.. |5w| image:: _static/images/MJw5.png
+.. |5w| image:: _static/images/suits/MJw5.png
     :width: 4 %
-.. |6w| image:: _static/images/MJw6.png
+.. |6w| image:: _static/images/suits/MJw6.png
     :width: 4 %
-.. |7w| image:: _static/images/MJw7.png
+.. |7w| image:: _static/images/suits/MJw7.png
     :width: 4 %
-.. |8w| image:: _static/images/MJw8.png
+.. |8w| image:: _static/images/suits/MJw8.png
     :width: 4 %
-.. |9w| image:: _static/images/MJw9.png
+.. |9w| image:: _static/images/suits/MJw9.png
     :width: 4 %
-.. |df| image:: _static/images/MJf1.png
+.. |df| image:: _static/images/suits/MJf1.png
     :width: 4 %
-.. |nf| image:: _static/images/MJf2.png
+.. |nf| image:: _static/images/suits/MJf2.png
     :width: 4 %
-.. |xf| image:: _static/images/MJf3.png
+.. |xf| image:: _static/images/suits/MJf3.png
     :width: 4 %
-.. |bf| image:: _static/images/MJf4.png
+.. |bf| image:: _static/images/suits/MJf4.png
     :width: 4 %
-.. |zhong| image:: _static/images/MJd1.png
+.. |zhong| image:: _static/images/suits/MJd1.png
     :width: 4 %
-.. |fa| image:: _static/images/MJd2.png
+.. |fa| image:: _static/images/suits/MJd2.png
     :width: 4 %
-.. |bai| image:: _static/images/MJd3.png
+.. |bai| image:: _static/images/suits/MJd3.png
     :width: 4 %
-.. |chun| image:: _static/images/MJh1.png
+.. |chun| image:: _static/images/suits/MJh1.png
     :width: 4 %
-.. |xia| image:: _static/images/MJh2.png
+.. |xia| image:: _static/images/suits/MJh2.png
     :width: 4 %
-.. |qiu| image:: _static/images/MJh3.png
+.. |qiu| image:: _static/images/suits/MJh3.png
     :width: 4 %
-.. |dong| image:: _static/images/MJh4.png
+.. |dong| image:: _static/images/suits/MJh4.png
     :width: 4 %
-.. |mei| image:: _static/images/MJh5.png
+.. |mei| image:: _static/images/suits/MJh5.png
     :width: 4 %
-.. |lan| image:: _static/images/MJh6.png
+.. |lan| image:: _static/images/suits/MJh6.png
     :width: 4 %
-.. |ju| image:: _static/images/MJh7.png
+.. |ju| image:: _static/images/suits/MJh7.png
     :width: 4 %
-.. |zhu| image:: _static/images/MJh8.png
+.. |zhu| image:: _static/images/suits/MJh8.png
     :width: 4 %
 
 特殊和牌牌型
 ------------
 
-本部分会尽可能全面列出各种特殊和牌牌型。注意，这里只对他们进行定义，不说明分数。是否认可某一特殊和牌牌型及其对应分数应查阅 :doc:`/variants`。
+本部分会尽可能全面列出各种特殊和牌牌型。注意，这里只对他们进行定义，不说明分数。是否认可某一特殊和牌牌型及其对应分数应查阅 :doc:`/variants/index`。
 
 * **七对**：七对将，AA BB CC DD EE FF GG。如
 
@@ -119,7 +119,7 @@
 
     |2b| |2b| |2b| :math:`\ ` |3b| |4b| |5b| :math:`\ ` |6b| |7b| |8b| :math:`\ ` |7b| |8b| |9b| :math:`\ ` |5b| |5b|
 
-    * **九宝莲灯**：某种颜色的 111 234 55 678 999。如
+    * **九宝莲灯**：某种颜色的 111234678999，再加其中任何一张。注意，可能对听牌、门清等有要求。如
   
       |1w| |1w| |1w| :math:`\ ` |2w| |3w| |4w| :math:`\ ` |5w| |5w| :math:`\ ` |6w| |7w| |8w| :math:`\ ` |9w| |9w| |9w|
 

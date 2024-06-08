@@ -25,7 +25,7 @@
    throwing
    win
    kong
-   variants
+   variants/index
    misc
 
 

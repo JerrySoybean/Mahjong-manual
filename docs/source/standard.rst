@@ -1,89 +1,89 @@
 标准流程
 ========
 
-.. |1b| image:: _static/images/MJt1.png
+.. |1b| image:: _static/images/suits/MJt1.png
     :width: 10 %
-.. |2b| image:: _static/images/MJt2.png
+.. |2b| image:: _static/images/suits/MJt2.png
     :width: 10 %
-.. |3b| image:: _static/images/MJt3.png
+.. |3b| image:: _static/images/suits/MJt3.png
     :width: 10 %
-.. |4b| image:: _static/images/MJt4.png
+.. |4b| image:: _static/images/suits/MJt4.png
     :width: 10 %
-.. |5b| image:: _static/images/MJt5.png
+.. |5b| image:: _static/images/suits/MJt5.png
     :width: 10 %
-.. |6b| image:: _static/images/MJt6.png
+.. |6b| image:: _static/images/suits/MJt6.png
     :width: 10 %
-.. |7b| image:: _static/images/MJt7.png
+.. |7b| image:: _static/images/suits/MJt7.png
     :width: 10 %
-.. |8b| image:: _static/images/MJt8.png
+.. |8b| image:: _static/images/suits/MJt8.png
     :width: 10 %
-.. |9b| image:: _static/images/MJt9.png
+.. |9b| image:: _static/images/suits/MJt9.png
     :width: 10 %
-.. |1t| image:: _static/images/MJs1.png
+.. |1t| image:: _static/images/suits/MJs1.png
     :width: 10 %
-.. |2t| image:: _static/images/MJs2.png
+.. |2t| image:: _static/images/suits/MJs2.png
     :width: 10 %
-.. |3t| image:: _static/images/MJs3.png
+.. |3t| image:: _static/images/suits/MJs3.png
     :width: 10 %
-.. |4t| image:: _static/images/MJs4.png
+.. |4t| image:: _static/images/suits/MJs4.png
     :width: 10 %
-.. |5t| image:: _static/images/MJs5.png
+.. |5t| image:: _static/images/suits/MJs5.png
     :width: 10 %
-.. |6t| image:: _static/images/MJs6.png
+.. |6t| image:: _static/images/suits/MJs6.png
     :width: 10 %
-.. |7t| image:: _static/images/MJs7.png
+.. |7t| image:: _static/images/suits/MJs7.png
     :width: 10 %
-.. |8t| image:: _static/images/MJs8.png
+.. |8t| image:: _static/images/suits/MJs8.png
     :width: 10 %
-.. |9t| image:: _static/images/MJs9.png
+.. |9t| image:: _static/images/suits/MJs9.png
     :width: 10 %
-.. |1w| image:: _static/images/MJw1.png
+.. |1w| image:: _static/images/suits/MJw1.png
     :width: 10 %
-.. |2w| image:: _static/images/MJw2.png
+.. |2w| image:: _static/images/suits/MJw2.png
     :width: 10 %
-.. |3w| image:: _static/images/MJw3.png
+.. |3w| image:: _static/images/suits/MJw3.png
     :width: 10 %
-.. |4w| image:: _static/images/MJw4.png
+.. |4w| image:: _static/images/suits/MJw4.png
     :width: 10 %
-.. |5w| image:: _static/images/MJw5.png
+.. |5w| image:: _static/images/suits/MJw5.png
     :width: 10 %
-.. |6w| image:: _static/images/MJw6.png
+.. |6w| image:: _static/images/suits/MJw6.png
     :width: 10 %
-.. |7w| image:: _static/images/MJw7.png
+.. |7w| image:: _static/images/suits/MJw7.png
     :width: 10 %
-.. |8w| image:: _static/images/MJw8.png
+.. |8w| image:: _static/images/suits/MJw8.png
     :width: 10 %
-.. |9w| image:: _static/images/MJw9.png
+.. |9w| image:: _static/images/suits/MJw9.png
     :width: 10 %
-.. |df| image:: _static/images/MJf1.png
+.. |df| image:: _static/images/suits/MJf1.png
     :width: 10 %
-.. |nf| image:: _static/images/MJf2.png
+.. |nf| image:: _static/images/suits/MJf2.png
     :width: 10 %
-.. |xf| image:: _static/images/MJf3.png
+.. |xf| image:: _static/images/suits/MJf3.png
     :width: 10 %
-.. |bf| image:: _static/images/MJf4.png
+.. |bf| image:: _static/images/suits/MJf4.png
     :width: 10 %
-.. |zhong| image:: _static/images/MJd1.png
+.. |zhong| image:: _static/images/suits/MJd1.png
     :width: 10 %
-.. |fa| image:: _static/images/MJd2.png
+.. |fa| image:: _static/images/suits/MJd2.png
     :width: 10 %
-.. |bai| image:: _static/images/MJd3.png
+.. |bai| image:: _static/images/suits/MJd3.png
     :width: 10 %
-.. |chun| image:: _static/images/MJh1.png
+.. |chun| image:: _static/images/suits/MJh1.png
     :width: 10 %
-.. |xia| image:: _static/images/MJh2.png
+.. |xia| image:: _static/images/suits/MJh2.png
     :width: 10 %
-.. |qiu| image:: _static/images/MJh3.png
+.. |qiu| image:: _static/images/suits/MJh3.png
     :width: 10 %
-.. |dong| image:: _static/images/MJh4.png
+.. |dong| image:: _static/images/suits/MJh4.png
     :width: 10 %
-.. |mei| image:: _static/images/MJh5.png
+.. |mei| image:: _static/images/suits/MJh5.png
     :width: 10 %
-.. |lan| image:: _static/images/MJh6.png
+.. |lan| image:: _static/images/suits/MJh6.png
     :width: 10 %
-.. |ju| image:: _static/images/MJh7.png
+.. |ju| image:: _static/images/suits/MJh7.png
     :width: 10 %
-.. |zhu| image:: _static/images/MJh8.png
+.. |zhu| image:: _static/images/suits/MJh8.png
     :width: 10 %
 
 
@@ -186,33 +186,33 @@
 ^^^^^^^^^^^^^^^^
 将牌型构造成 4 个面子 + 1 对将，即 4 * (AAA 或 AAAA 或 BCD) + EE，如
 
-.. image:: _static/images/MJs1.png
+.. image:: _static/images/suits/MJs1.png
     :width: 6 %
-.. image:: _static/images/MJs2.png
+.. image:: _static/images/suits/MJs2.png
     :width: 6 %
-.. image:: _static/images/MJs3.png
+.. image:: _static/images/suits/MJs3.png
     :width: 6 %
-.. image:: _static/images/MJt2.png
+.. image:: _static/images/suits/MJt2.png
     :width: 6 %
-.. image:: _static/images/MJt2.png
+.. image:: _static/images/suits/MJt2.png
     :width: 6 %
-.. image:: _static/images/MJt2.png
+.. image:: _static/images/suits/MJt2.png
     :width: 6 %
-.. image:: _static/images/MJw5.png
+.. image:: _static/images/suits/MJw5.png
     :width: 6 %
-.. image:: _static/images/MJw6.png
+.. image:: _static/images/suits/MJw6.png
     :width: 6 %
-.. image:: _static/images/MJw7.png
+.. image:: _static/images/suits/MJw7.png
     :width: 6 %
-.. image:: _static/images/MJf1.png
+.. image:: _static/images/suits/MJf1.png
     :width: 6 %
-.. image:: _static/images/MJf1.png
+.. image:: _static/images/suits/MJf1.png
     :width: 6 %
-.. image:: _static/images/MJf1.png
+.. image:: _static/images/suits/MJf1.png
     :width: 6 %
-.. image:: _static/images/MJw7.png
+.. image:: _static/images/suits/MJw7.png
     :width: 6 %
-.. image:: _static/images/MJw7.png
+.. image:: _static/images/suits/MJw7.png
     :width: 6 %
 
 7 过程
@@ -245,11 +245,11 @@
 
 8 记分
 ------
-麻将的输赢分数是各地麻将差异最大的部分，也是决定麻将策论的主要因素。*记分方式决定了优化的目标函数。* 详细请参考 :doc:`/variants`。
+麻将的输赢分数是各地麻将差异最大的部分，也是决定麻将策论的主要因素。*记分方式决定了优化的目标函数。* 详细请参考 :doc:`/variants/index`。
 
 大多数玩法中，三位输家要向赢家付和分（钱）。其他三家给开杠玩家付杠分（钱）。
 
-* 每位输家要向赢家付的 :math:`和分 = 底分 \times 2^{和牌牌型翻数和} \times 2^{和牌动作翻数和} \times 2^{是否庄和} \times 2^{是否自己是庄} \times 2^{是否是自己点炮}`。其中底分通常为 1。和牌牌型翻数以及和牌牌动作翻数由 :doc:`/variants` 对 :doc:`/win` 的翻数决定。一翻的意思就是分数翻一翻/翻一倍，数学描述为 :math:`\times 2`。所以和牌牌型翻数和为牌型所满足的所有特殊和牌牌型对应的翻数总和。如果和牌牌型不匹配任何特殊和牌牌型，则称为 **平和/屁和**，翻数为 0。
+* 每位输家要向赢家付的 :math:`和分 = 底分 \times 2^{和牌牌型翻数和} \times 2^{和牌动作翻数和} \times 2^{是否庄和} \times 2^{是否自己是庄} \times 2^{是否是自己点炮}`。其中底分通常为 1。和牌牌型翻数以及和牌牌动作翻数由 :doc:`/variants/index` 对 :doc:`/win` 的翻数决定。一翻的意思就是分数翻一翻/翻一倍，数学描述为 :math:`\times 2`。所以和牌牌型翻数和为牌型所满足的所有特殊和牌牌型对应的翻数总和。如果和牌牌型不匹配任何特殊和牌牌型，则称为 **平和/屁和**，翻数为 0。
 * 每位玩家要向每一幅杠付 **杠分**。所有可能的付法详见 :doc:`/kong`。
 
 这里举三个最基本的不含杠的例子。
