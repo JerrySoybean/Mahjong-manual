@@ -24,28 +24,23 @@
 
       * **三龙七对（超超豪华七对）**：:math:`\times 2`
 
+* **对对和/碰碰和/大对子**：:math:`\times 1`
+
+  * **十八罗汉**：:math:`\times 1`
+  * **混幺九**：:math:`\times 1`
+  
+    * **幺九**：:math:`\times 1`
+
+* **一条龙**：:math:`\times 2`
+* **十三幺**：商量
 * **混一色**：:math:`\times 1`
 
   * **绿一色**：:math:`\times 1`
   * **清一色**：:math:`\times 2`
 
     * **九宝莲灯**：:math:`\times 1`
-    * **字一色**：:math:`\times 1`
 
-  * **大四喜**：:math:`\times 1`
-  * **小四喜**：:math:`\times 1`
-
-* **对对和/碰碰和/大对子**：:math:`\times 1`
-
-  * **四暗刻**：:math:`\times 1`
-  * **十八罗汉**：:math:`\times 1`
-  * **大四喜**：:math:`\times 1`
-  * **混幺九**：:math:`\times 1`
-  
-    * **幺九**：:math:`\times 1`
-    * **字一色**：:math:`\times 1`
-
-* **一条龙**：:math:`\times 2`
-* **十三幺**：商量
 * **大三元**：:math:`\times 1`
 * **小三元**：:math:`\times 1`
+* **大四喜**：:math:`\times 1`
+* **小四喜**：:math:`\times 1`
