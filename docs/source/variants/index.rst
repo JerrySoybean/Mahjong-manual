@@ -6,4 +6,6 @@
    
    jingjinji
    shanxi
+   inner_mongolia
+   
    
