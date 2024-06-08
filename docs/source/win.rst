@@ -117,13 +117,13 @@
 
     |1t| |1t| |1t| |1t| :math:`\ ` |4b| |4b| |4b| |4b| :math:`\ ` |6t| |6t| |6t| |6t| :math:`\ ` |bai| |bai| |bai| |bai| :math:`\ ` |9b| |9b|
 
-  * **混幺九**：只包含 1、9 和字牌。殊情况。如
+* **混 全带幺九**：四个面子和一对将都含有 1、9 或字牌。如
   
-    |1w| |1w| |1w| :math:`\ ` |1t| |1t| |1t| :math:`\ ` |9t| |9t| |9t| :math:`\ ` |df| |df| |df| :math:`\ ` |1b| |1b|
+  |1b| |2b| |3b| :math:`\ ` |1t| |2t| |3t| :math:`\ ` |1w| |1w| |1w| :math:`\ ` |xf| |xf| |xf| :math:`\ ` |9w| |9w| 
 
-    * **幺九**：只包含 1 和 9。如
+  * **纯 全带幺九**：四个面子和一对将都包含 1、9。如
     
-      |1w| |1w| |1w| :math:`\ ` |1t| |1t| |1t| :math:`\ ` |9t| |9t| |9t| :math:`\ ` |9w| |9w| |9w| :math:`\ ` |1b| |1b|
+    |1b| |2b| |3b| :math:`\ ` |1t| |2t| |3t| :math:`\ ` |1w| |1w| |1w| :math:`\ ` |7w| |8w| |9w| :math:`\ ` |9b| |9b| 
 
 * **一条龙**：包含同一花色的 123 456 789。如
 
@@ -165,9 +165,23 @@
   
   |df| |df| |df| :math:`\ ` |nf| |nf| |nf| :math:`\ ` |xf| |xf| |xf| :math:`\ ` |5w| |6w| |7w| :math:`\ ` |bf| |bf|
   
-特别案例：
-|df| |df| |df| :math:`\ ` |xf| |xf| |xf| :math:`\ ` |nf| |nf| |nf| :math:`\ ` |bf| |bf| |bf| :math:`\ ` |bai| |bai|
-从上到下依次检索，对对和的混幺九 + 混一色的清一色 + 大四喜
+特别案例
+^^^^^^^^
+* 混幺九 = 对对和 + 混全带幺九
+  
+  |1w| |1w| |1w| :math:`\ ` |1t| |1t| |1t| :math:`\ ` |9t| |9t| |9t| :math:`\ ` |df| |df| |df| :math:`\ ` |1b| |1b|
+
+* 纯幺九 = 对对和 + 纯全带幺九。如
+  
+  |1w| |1w| |1w| :math:`\ ` |1t| |1t| |1t| :math:`\ ` |9t| |9t| |9t| :math:`\ ` |9w| |9w| |9w| :math:`\ ` |1b| |1b|
+
+* 字一色 =  混幺九 + 混一色的清一色。如 
+
+  |df| |df| |df| :math:`\ ` |xf| |xf| |xf| :math:`\ ` |nf| |nf| |nf| :math:`\ ` |zhong| |zhong| |zhong| :math:`\ ` |bai| |bai|
+
+* |df| |df| |df| :math:`\ ` |xf| |xf| |xf| :math:`\ ` |nf| |nf| |nf| :math:`\ ` |bf| |bf| |bf| :math:`\ ` |bai| |bai|
+  
+  从上到下依次检索，为字一色 + 大四喜 = 混幺九 + 混一色的清一色 + 大四喜 = 对对和 + 混全带幺九 + 混一色的清一色 + 大四喜
 
 和牌动作
 --------
